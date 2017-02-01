@@ -1,3 +1,6 @@
+@author Juan Gonzalo Quiroz
+@author Ronald Cardona Martinez .l.
+
 #include <iostream>
 #include <sstream>
 #include <cstring>
